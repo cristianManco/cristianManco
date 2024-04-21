@@ -187,6 +187,125 @@
 </details>
 
 </br></br>
+
+
+
+<div align="center">
+  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=blue&labelColor=black&style=plastic" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=purple&labelColor=black&style=plastic" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=blueviolet&labelColor=black&style=plastic" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsap&logo=whatsapp&label=&color=black&logoColor=gren&labelColor=&style=plastic" height="25" alt="whatsapp logo"  />
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=black&labelColor=blue&style=plastic" height="25" alt="facebook logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=camiloriwi.camiloriwi&"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h1 align="center">hey there  I'am Cristian👋</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">I'm ... from .... Medellin<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="70" alt="html5 logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="70" alt="css3 logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="70" alt="javascript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="70" alt="bootstrap logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70" alt="csharp logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="70" alt="dot-net logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="70" alt="typescript logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="70" alt="mongodb logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="70" alt="express logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/nestjs/E0234E" height="70" alt="nestjs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="70" alt="nodejs logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="70" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70" alt="mysql logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70" alt="git logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=postman" height="70" alt="postman logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" alt="npm logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="70" alt="vscode logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="70" alt="visualstudio logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="70" alt="bash logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img width="15" />
+  <img src="https://cdn.simpleicons.org/yarn/2C8EBB" height="70" alt="yarn logo"  />
+  <img width="15" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="70" alt="wordpress logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="70" alt="canva logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="70" alt="intellij logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="70" alt="markdown logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=camiloriwi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=aura&locale=en&hide_border=false&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=camiloriwi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=aura&hide_border=false&order=2" height="310" alt="languages graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=camiloriwi&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5&order=3" height="240" alt="streak graph" /> <br>
+  <img src="https://github-profile-trophy.vercel.app?username=camiloriwi&row=4&margin-w=9&margin-h=9&no-bg=false&theme=darkhub" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<p align="left">## snake</p>
+
+###
+
+<img src="https://raw.githubusercontent.com/camiloriwi/camiloriwi/output/snake.svg" alt="Snake animation" />
+
+###
 	
 ## 🐍 A Snake Eating my Contributions Graph
 	
