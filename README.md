@@ -1,21 +1,21 @@
 
 <h1 align="center">Hi , I'm Cristian Manco <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+developer+@cristian.manco;backend+developer+Student;frontend+developer;Expert+on+Codeforces;(5+Stars)"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+developer+@cristian.manco;backend+developer+Student;frontend+developer;Database+analist;(5+Stars)"></a>
 </p>
 
 
 <br>
 
 <p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=7oSkaaa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=cristianManco&label=Profile%20views&color=0047AB&style=plastic?" alt="cristianManco" height=25px, width=160px/> 
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
 			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
 		</a>
 	-->
 	<a href = "https://commits.top/egypt.html" target="_blank">
-		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="7oSkaaa" target="_blank" height=25px, width=250px/> 
+		<img src="https://enfsgag3ayy6w9q.m.pipedream.net/&style=plastic" alt="cristianManco" target="_blank" height=25px, width=250px/> 
 	</a>
 
 </p>
@@ -23,14 +23,14 @@
 	
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+<picture> <img align="right" src="https://github.com/cristianManco/cristianManco/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
 
 - :school: I am a `Junior developer` 
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `coder`, `Leetcode`.<!--para agregar mas solo se agrega una coma y entre backtiks se agrega la palabra -->
-- :student: I’m currently learning `software developer` and `Software Engineering`.
+- :computer: I am a competitive programmer at `Codeforces`, `coder`.<!--para agregar mas solo se agrega una coma y entre backtiks se agrega la palabra -->
+- :student: I’m currently learning `software developer` ,`Software Engineering` and `Database analist`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](..).
 - :boom: You can visit [MY WEBSITE](https://cristianmanco.github.io/portafolio--profesional/).
@@ -70,12 +70,12 @@
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me
 <p align="center">
-<a href="https://github.com/Camiloriwi"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=black"&color=black height="25" alt="GitHub"/></a>
+<a href="https://github.com/cristianManco"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=black"&color=black height="25" alt="GitHub"/></a>
    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=blue&labelColor=black&style=plastic" height="25" alt="linkedin logo"  /></a>
-  <a href="https://www.instagram.com/cristian_02/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=purple&labelColor=black&style=plastic" height="25" alt="instagram logo"  /></a>
+  <a href="https://www.instagram.com/cristiandev18/"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=black&logoColor=purple&labelColor=black&style=plastic" height="25" alt="instagram logo"  /></a>
   <a href="mailto:camilomanco2005@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=blueviolet&labelColor=black&style=plastic" height="25" alt="gmail logo"  /></a>
   <a href="https://wa.me/3148497467"><img src="https://img.shields.io/static/v1?message=Whatsap&logo=whatsapp&label=&color=black&logoColor=gren&labelColor=&style=plastic" height="25" alt="whatsapp logo"  /></a>
-  <a href="https://www.facebook.com/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=black&labelColor=blue&style=plastic" height="25" alt="facebook logo"  /></a>
+  <a href="https://www.facebook.com/camilocorrea"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=blue&logoColor=black&labelColor=blue&style=plastic" height="25" alt="facebook logo"  /></a>
 
 </p>
 
