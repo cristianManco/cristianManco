@@ -28,7 +28,7 @@
 - :computer: I am a competitive programmer at `Codeforces`, `coder`.<!--para agregar mas solo se agrega una coma y entre backtiks se agrega la palabra -->
 - :student: I’m currently learning `software developer` ,`Software Engineering` and `Database analist`.
 - :nerd_face: Always `learning new things`.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](..).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](file:///C:/Users/CAMILO/Downloads/Copy%20of%20plantilla_HV_riwicoder.pdf).
 - :boom: You can visit [MY WEBSITE](https://cristianmanco.github.io/portafolio--profesional/).
 <br>
 
