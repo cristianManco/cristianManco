@@ -45,22 +45,28 @@
  
 	 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
- <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code><code><img alt="HTML5" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code><code><img alt="CSS3" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="70px" width="15%" alt="csharp logo"  /></code>
- <br>
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"></code></code><code><img alt="Nodemon" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"></code><code><img alt="NestJS" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"></code><code><img alt=".NET" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></code>
-<br />
-<code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code><code><img src="https://skillicons.dev/icons?i=postman" height="70"  width="15%" alt="postman logo"  /></code><code><img alt="VSCode" height="70px" width="16%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<br />
-<br /><code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code><code><img alt="GitHub Copilot" height="70px" width="15%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code><code>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="70" alt="canva logo"   width="15%" ></code><code> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="70" width=15%" alt="npm logo"  ></code><code><img width="15%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+ 
+<br>
+<br>
 
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="70" alt="markdown logo"  width="15%"></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  width="15%" ></code><code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="70" alt="visualstudio logo" width="15%" ></code><code><img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="70" alt="bash logo"  width="15%" ></code>	
+| Languages | Tools | Databases | Frameworks | Others |
+| :---: | :---: | :---: | :---: | :---: |
+| <img alt="JavaScript"  height="100px" width="162px"  src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">  | <img alt="Node.js"   height="100px" width="162px"  src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"> | <img alt="MongoDB"   height="100px" width="162px"  src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> | <img alt="Express.js"   height="100px" width="162px"  src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg"> | <img alt="Windows" height="100px" width="162px" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-ar21.svg"> |
+| <img alt="TypeScript"  height="80px" width="140px" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg"> | <img alt="Nodemon"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/nodemonio/nodemonio-ar21.svg"> | <img alt="MySQL"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> | <img alt="NestJS"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg"> | <img alt="Mac" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/apple/apple-ar21.svg"> |
+| <img alt="Python"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"> | <img alt="Yarn" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"> | <img alt="PostgreSQL"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"> | <img alt="React" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> | <img src="https://skillicons.dev/icons?i=postman"  height="90px" width="140px" alt="postman logo"> |
+| <img alt="HTML5" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> | <img alt="Git"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"> | <img alt="SQL" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg"> | <img alt="Bootstrap" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"> | <img alt="VSCode" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"> |
+| <img alt="CSS3" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"> | <img alt="GitHub Copilot"  height="100px" width="140px" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"> |  |  <img alt=".NET" height="100px" width="140px" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg">  | <img alt="Linux"  height="100px" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"> |
+| <img alt="C#"  height="100px" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> | <img alt="Canva"  height="100px" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"> |  |  | <img alt="Visual Studio"  height="100px" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"> |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg"  height="100px" width="140px" alt="markdown logo">  | <img alt="npm" height="100px" width="140px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg"> |  |  | <img alt="Bash"  height="100px" width="140px" src="https://cdn.simpleicons.org/gnubash/4EAA25"> |
+|  |  |  |  |  |
+
 </div>
 </p>
  <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-  <br>
- <br>
-
+<br>
+  
+<br>
 
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Connect with me...  💻☎️📱🖤
