@@ -192,10 +192,10 @@
 
 	
 ## 🐍 A Snake Eating my Contributions Graph
-	
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <a href="https://1999azzar.github.io/cristianManco/">
+    <img src="/resources/grid-snake.svg" alt="snake"/>
+  </a>
 </div>
 <!---
 cristianManco/cristianManco is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
