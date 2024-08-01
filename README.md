@@ -194,7 +194,7 @@
 ## 🐍 A Snake Eating my Contributions Graph
 <div align="center">
   <a href="https://1999azzar.github.io/cristianManco/">
-    <img src="/resources/grid-snake.svg" alt="snake"/>
+	<img src="https://raw.githubusercontent.com/OfficialCodeVoyage/OfficialCodeVoyage/58c1bb0b4dd66b4f7678ea697b5d766d5255c840/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
   </a>
 </div>
 <!---
